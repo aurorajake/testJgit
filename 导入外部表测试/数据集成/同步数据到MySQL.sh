@@ -1,4 +1,4 @@
- --同步数据到MySQL 
+ -- 同步数据到MySQL 
  CREATE TABLE `test_user_behavior_2` (
  `action` string,
  `bhv_count` string,
