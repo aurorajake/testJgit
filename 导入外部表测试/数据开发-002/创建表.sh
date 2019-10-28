@@ -14,3 +14,4 @@
  ) 
   PARTITIONED BY (ds string)
   LIFECYCLE 100000;
+  -第二次提交
